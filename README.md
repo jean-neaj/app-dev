@@ -1,57 +1,49 @@
-My Favorite Movie: Tangled (Rapunzel)
+# My Favorite Movie: Tangled (Rapunzel)
 
-Introduction
+## Introduction
 
 My favorite movie is Tangled, a Disney animated movie released in 2010. It tells the story of a young princess named Rapunzel, who has long, magical golden hair.
 
-Story Summary
+## Story Summary
 
 Rapunzel lives in a tower with Mother Gothel, who keeps her away from the outside world. One day, she meets a thief named Flynn Rider, and they go on an exciting adventure together.
 
-Main Characters
+## Main Characters
 
-Rapunzel – A brave and kind princess.
+1. Rapunzel – A brave and kind princess.
 
-Flynn Rider – A funny and charming thief.
+2. Flynn Rider – A funny and charming thief.
 
-Pascal – Rapunzel's loyal chameleon.
+3. Pascal – Rapunzel's loyal chameleon.
 
-Maximus – A determined horse.
+4. Maximus – A determined horse.
 
-Why I Love Tangled
+## Why I Love Tangled
 
-I love this movie because:
+- I love this movie because:
 
-It has beautiful animation.
+- It has beautiful animation.
 
-The characters are funny and lovable.
+- The characters are funny and lovable.
 
-It teaches us to be brave.
+- It teaches us to be brave.
 
-It inspires us to follow our dreams.
+- It inspires us to follow our dreams.
 
-Movie Information
+## Movie Information
 
-Category
+*Category & Details*
 
-Details
+**Movie Title**
+- Tangled
 
-Movie Title
+**Release Year**
+- 2010
 
-Tangled
+**Genre**
+- Animation, Adventure, Fantasy
 
-Release Year
+**Main Character**
+- Rapunzel
 
-2010
-
-Genre
-
-Animation, Adventure, Fantasy
-
-Main Character
-
-Rapunzel
-
-Walt Disney Animation Studios
-
-In conclusion, Tangled is a wonderful movie that teaches us about courage, love, and freedom. It will always be one of my favorite Disney movies!
+### In conclusion, Tangled is a wonderful movie that teaches us about courage, love, and freedom. It will always be one of my favorite Disney movies!
